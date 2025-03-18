@@ -65,7 +65,7 @@ def classify_student(responses):
 
 # Función principal de la aplicación Streamlit.
 def main():
-    st.title("Evaluador de Comparación de Fracciones")
+    st.title("Diagnose Math")
     
     # Sección de Objetivo de Aprendizaje
     st.header("Objetivo de Aprendizaje")
